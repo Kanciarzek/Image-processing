@@ -1,0 +1,4 @@
+venv/*
+img/*
+Data_WP3_1_Geotagged_Images_v1.0.csv
+.ipynb_checkpoints/*
